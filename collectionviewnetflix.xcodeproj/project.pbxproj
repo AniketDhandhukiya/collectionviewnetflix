@@ -13,6 +13,9 @@
 		C63320D629BD531E0018DCAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C63320D429BD531E0018DCAD /* Main.storyboard */; };
 		C63320D829BD53200018DCAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C63320D729BD53200018DCAD /* Assets.xcassets */; };
 		C63320DB29BD53200018DCAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C63320D929BD53200018DCAD /* LaunchScreen.storyboard */; };
+		C63320E329BD5C530018DCAD /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63320E229BD5C530018DCAD /* CollectionViewCell.swift */; };
+		C63320E529BD62AB0018DCAD /* CollectionViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63320E429BD62AB0018DCAD /* CollectionViewCell2.swift */; };
+		C63320E729BD64E00018DCAD /* CollectionViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63320E629BD64E00018DCAD /* CollectionViewCell3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		C63320D729BD53200018DCAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C63320DA29BD53200018DCAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C63320DC29BD53200018DCAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C63320E229BD5C530018DCAD /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		C63320E429BD62AB0018DCAD /* CollectionViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell2.swift; sourceTree = "<group>"; };
+		C63320E629BD64E00018DCAD /* CollectionViewCell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				C63320D029BD531E0018DCAD /* SceneDelegate.swift */,
 				C63320D229BD531E0018DCAD /* ViewController.swift */,
 				C63320D429BD531E0018DCAD /* Main.storyboard */,
+				C63320E629BD64E00018DCAD /* CollectionViewCell3.swift */,
+				C63320E429BD62AB0018DCAD /* CollectionViewCell2.swift */,
+				C63320E229BD5C530018DCAD /* CollectionViewCell.swift */,
 				C63320D729BD53200018DCAD /* Assets.xcassets */,
 				C63320D929BD53200018DCAD /* LaunchScreen.storyboard */,
 				C63320DC29BD53200018DCAD /* Info.plist */,
@@ -140,6 +149,9 @@
 			files = (
 				C63320D329BD531E0018DCAD /* ViewController.swift in Sources */,
 				C63320CF29BD531E0018DCAD /* AppDelegate.swift in Sources */,
+				C63320E529BD62AB0018DCAD /* CollectionViewCell2.swift in Sources */,
+				C63320E329BD5C530018DCAD /* CollectionViewCell.swift in Sources */,
+				C63320E729BD64E00018DCAD /* CollectionViewCell3.swift in Sources */,
 				C63320D129BD531E0018DCAD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
